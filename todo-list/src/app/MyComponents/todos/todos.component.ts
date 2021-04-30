@@ -21,7 +21,7 @@ export class TodosComponent implements OnInit {
         sno:2,
         title:"this is title 2",
         desc:"description 2",
-        active:true
+        active:true,
       },
       {
         sno:3,
