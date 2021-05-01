@@ -18,7 +18,6 @@ export class TodoItemComponent implements OnInit {
 
   onClick(todo : Todo){
     this.todoDelete.emit(todo);
-    console.log("onclick fired...")
   }
 
 }
